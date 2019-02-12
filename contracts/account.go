@@ -14,9 +14,9 @@ import (
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 	sc "github.com/hyperledger/fabric/protos/peer"
 
-	"github.com/nmatsui/fabric-payment-sample-chaincode/models"
-	"github.com/nmatsui/fabric-payment-sample-chaincode/types"
-	"github.com/nmatsui/fabric-payment-sample-chaincode/utils"
+	"github.com/papandas/fabric-chaincode/models"
+	"github.com/papandas/fabric-chaincode/types"
+	"github.com/papandas/fabric-chaincode/utils"
 )
 
 var accountLogger = shim.NewLogger("contracts/account")

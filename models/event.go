@@ -8,7 +8,7 @@
 package models
 
 import (
-	"github.com/nmatsui/fabric-payment-sample-chaincode/types"
+	"github.com/papandas/fabric-chaincode/types"
 )
 
 // AccountState: Holder to show the change of balance.

@@ -14,7 +14,7 @@ import (
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
 
-	"github.com/nmatsui/fabric-payment-sample-chaincode/models"
+	"github.com/papandas/fabric-chaincode/models"
 )
 
 // GetAccount : get an account from state db using account no.
